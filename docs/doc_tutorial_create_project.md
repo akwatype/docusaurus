@@ -26,4 +26,26 @@ You need to fill the form with a project name, and choose the company in the lis
 ![Fill the new Project form](assets/!projects!new!Project3.png)
 
 Then you click on the "+ Create project" button.
+You will be redirected to the new project home page. 
+
+![New project home page](assets/!projects!Project3.png)
+
+You will see a new menu on the left of your screen
+
+First button, is the project home page.
+
+![Project menu](assets/!projects!menu!home.png)
+
+
+Next block is for model actions, go to the model editor, do a model exploration or model comparison.
+
+![Project menu](assets/!projects!menu!model.png)
+
+Next block is for services actions, go to the services editor, do a services exploration or services comparison.
+
+![Project menu](assets/!projects!menu!services.png)
+
+Finally, last button go to the settings of the project.
+
+![Project menu](assets/!projects!menu!settings.png)
 
