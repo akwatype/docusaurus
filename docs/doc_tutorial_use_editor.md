@@ -3,7 +3,9 @@ id: doc_tutorial_use_editor
 title: Use editor
 ---
 
-# Toolba
+TODO
+
+# Toolbar
 
 
 ![Toolbar](assets/!projects!editor!toolbar.png)
