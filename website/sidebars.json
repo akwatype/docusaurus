@@ -1,0 +1,13 @@
+{
+  
+  
+  "docs" : {
+    "Tutorial" : ["doc_tutorial", "doc_tutorial_create_project", "doc_tutorial_create_model", "doc_tutorial_visualize_model", "doc_tutorial_create_service", "doc_tutorial_visualize_service", "doc_tutorial_create_glossary", "doc_tutorial_use_glossary"],
+    
+    "Concepts": ["doc_concepts", "doc_concepts_type", "doc_concepts_facade", "doc_concepts_service"],
+    
+    "Languages": ["doc_languages", "doc_languages_type", "doc_languages_facade", "doc_languages_service"],
+    
+    "Application": ["doc_summary", "doc_projects", "doc_models", "doc_services", "doc_glossaries"]
+  }
+}
